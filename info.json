@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "99dc2d8611611f92481fbc83e57511bb7426aa45",
+    "author": "wlandau <will.landau@gmail.com>",
+    "time": "2021-07-14 12:56:52",
+    "files": 5,
+    "merge": false,
+    "message": "Fix #552\n"
+  },
+  "remote": "https://github.com/ropensci/targets",
+  "pkg": "targets"
+}
