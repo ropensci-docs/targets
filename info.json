@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "9843fbd6cb31d2d4936cd0d96f1c06da2831a2d1",
+    "author": "wlandau <will.landau.oss@gmail.com>",
+    "time": "2024-10-11 16:27:30",
+    "files": 1,
+    "merge": false,
+    "message": "update coverage workflow\n"
+  },
+  "repo": "https://github.com/ropensci/targets",
+  "pkg": "targets"
+}
