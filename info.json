@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "baec6cdf24f5acb3aea62aea8d80b7e225f4d663",
+    "author": "wlandau <will.landau.oss@gmail.com>",
+    "time": "2024-10-23 15:48:12",
+    "files": 1,
+    "merge": false,
+    "message": "suggest autometric\n"
+  },
+  "repo": "https://github.com/ropensci/targets",
+  "pkg": "targets"
+}

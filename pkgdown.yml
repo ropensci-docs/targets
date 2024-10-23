@@ -1,0 +1,9 @@
+pandoc: 3.2.1
+pkgdown: 2.1.0
+pkgdown_sha: ~
+articles:
+  overview: overview.html
+last_built: 2024-10-23T16:18Z
+urls:
+  reference: https://docs.ropensci.org/targets/reference
+  article: https://docs.ropensci.org/targets/articles
