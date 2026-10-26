@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "0d4c9ba1478c53bfdd098de2a9f8e3b3c529bb3f",
+    "author": "Will Landau <1580860+wlandau@users.noreply.github.com>",
+    "time": "2026-10-26T20:07:12Z",
+    "files": 4,
+    "merge": true,
+    "message": "Merge pull request #1600 from koefoeden/file-info-pipeline-objects\n\nQuery file info only for the pipeline's stored objects"
+  },
+  "repo": "https://github.com/ropensci/targets",
+  "pkg": "targets",
+  "time": "2026-10-26T23:21:15Z"
+}
