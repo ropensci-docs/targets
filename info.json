@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "e7e36128efd66a004b5d843864ecb8b73b5a6dc3",
+    "author": "wlandau <will.landau.oss@gmail.com>",
+    "time": "2026-11-19T21:28:51Z",
+    "files": 2,
+    "merge": false,
+    "message": "dev version 1.12.1.9000\n"
+  },
+  "repo": "https://github.com/ropensci/targets",
+  "pkg": "targets",
+  "time": "2026-11-19T22:10:34Z"
+}
